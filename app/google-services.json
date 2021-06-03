@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832266128847",
+    "project_id": "noteria-b1305",
+    "storage_bucket": "noteria-b1305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832266128847:android:c8488b9df3b013ad5096ba",
+        "android_client_info": {
+          "package_name": "com.udaychugh.noteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832266128847-hhf54k5hh0scf7i5t7nbmc53etc49vt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByvY57qc5cWeRG_ZRhgv_aRssYl998S04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832266128847-hhf54k5hh0scf7i5t7nbmc53etc49vt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
